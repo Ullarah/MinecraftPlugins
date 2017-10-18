@@ -58,7 +58,11 @@ public class MagicFunctions {
             Material.RAILS, Material.SAND, Material.GRAVEL, Material.EMERALD_BLOCK, Material.BEDROCK, Material.BARRIER,
             Material.NETHERRACK, Material.SNOW, Material.STRUCTURE_BLOCK, Material.OBSIDIAN, Material.STRUCTURE_VOID,
             Material.MOB_SPAWNER, Material.PACKED_ICE, Material.CACTUS, Material.MELON_BLOCK, Material.ICE,
-            Material.FROSTED_ICE, Material.MAGMA, Material.POWERED_RAIL,
+            Material.FROSTED_ICE, Material.MAGMA, Material.POWERED_RAIL, 
+            Material.WHITE_GLAZED_TERRACOTTA, Material.ORANGE_GLAZED_TERRACOTTA, Material.MAGENTA_GLAZED_TERRACOTTA, Material.LIGHT_BLUE_GLAZED_TERRACOTTA, 
+            Material.YELLOW_GLAZED_TERRACOTTA, Material.LIME_GLAZED_TERRACOTTA, Material.PINK_GLAZED_TERRACOTTA, Material.GRAY_GLAZED_TERRACOTTA, 
+            Material.SILVER_GLAZED_TERRACOTTA, Material.CYAN_GLAZED_TERRACOTTA, Material.PURPLE_GLAZED_TERRACOTTA, Material.BLUE_GLAZED_TERRACOTTA, 
+            Material.BROWN_GLAZED_TERRACOTTA, Material.GREEN_GLAZED_TERRACOTTA, Material.RED_GLAZED_TERRACOTTA, Material.BLACK_GLAZED_TERRACOTTA, 
     };
 
     private final String furnaceFuel = "" + ChatColor.DARK_RED + ChatColor.ITALIC + ChatColor.GREEN + ChatColor.BOLD,
