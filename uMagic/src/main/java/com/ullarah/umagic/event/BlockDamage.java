@@ -16,7 +16,7 @@ public class BlockDamage extends MagicFunctions implements Listener {
     @EventHandler(priority = EventPriority.HIGHEST)
     public void event(BlockDamageEvent event) {
 
-        for (String meta : new String[]{metaWool, metaLadd, metaFurn, metaFire, metaVoid, metaCact}) {
+        for (String meta : new String[]{metaWool, metaLadd, metaFurn, metaVoid, metaCact}) {
 
             if (event.getBlock().hasMetadata(meta)) {
 
